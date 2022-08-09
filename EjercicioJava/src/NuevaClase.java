@@ -1,4 +1,3 @@
 public class NuevaClase {
-
-    /*Subiremos los cambios a GitHub*/
+    /*Agregamos una nueva clase y la vamos actualizar en GitHub*/
 }
